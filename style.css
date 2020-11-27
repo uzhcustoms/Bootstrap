@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+}
+
+.test {
+	height: 200px;
+}
+
+.aa {
+	background-color: red;
+}
+
+.bb {
+	background-color: green;
+}
+
+.cc {
+	background-color: black;
+}
+
+.dd {
+	background-color: grey;
+}
+
+.ee {
+	background-color: pink;
+}
+
+.ff {
+	background-color: white;
+}
